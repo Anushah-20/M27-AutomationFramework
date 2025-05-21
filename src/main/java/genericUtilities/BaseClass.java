@@ -50,7 +50,7 @@ public class BaseClass {
 		
 		//for cross browser testing-"run time polymorphism"
 		
-		driver= new EdgeDriver();
+		driver= new ChromeDriver();
 		
 		/*if(pValue.equals("edge"))
 		{
